@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# efknockr (internet relay chat beacon) - developed by acidvegas in python (https://git.acid.vegas/efknockr)
+# efknockr 
 
 import asyncio
 import ipaddress
