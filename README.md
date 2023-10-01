@@ -2,8 +2,8 @@
 sumber yang dipakai flooder untuk promosi yang belakangan sering muncul di berbagai IRC server
 solusi mengatasi ini :
 spamfilter
-setting BPOM drone BL lebih ketat
->>>>>  blacklist tordanme {
+setting BPOM drone BL lebih ketat:
+blacklist tordanme {
         dns {
                 name tor.dan.me.uk;
                 type record;
@@ -14,7 +14,7 @@ setting BPOM drone BL lebih ketat
         reason "TOR detected";
 };
 
->>>>> blacklist spamrats {
+blacklist spamrats {
         dns {
                 name all.spamrats.com;
                 type record;
